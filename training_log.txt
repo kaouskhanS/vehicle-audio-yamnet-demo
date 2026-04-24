@@ -1,0 +1,8 @@
+Training failed or skipped: ModuleNotFoundError("No module named 'tensorflow'")\nTraceback (most recent call last):
+  File "/tmp/ipykernel_11/1947951512.py", line 236, in <module>
+    import tensorflow as tf
+ModuleNotFoundError: No module named 'tensorflow'
+\nCould not create placeholder Keras model: ModuleNotFoundError("No module named 'tensorflow'")\nTraceback (most recent call last):
+  File "/tmp/ipykernel_11/1947951512.py", line 252, in <module>
+    import tensorflow as tf, numpy as np
+ModuleNotFoundError: No module named 'tensorflow'
