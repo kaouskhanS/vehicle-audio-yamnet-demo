@@ -212,7 +212,7 @@ The system processes uploaded vehicle audio files and extracts audio embeddings 
 
 # 👨‍💻 Author
 
-**Kous khan S**
+**Kaous Khan S and Sujitha A**
 
 - Aspiring Data Analyst
 - Machine Learning Enthusiast
